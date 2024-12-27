@@ -29,7 +29,7 @@ It correctly bundles React in production mode and optimizes the build for the be
 The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
 
-![Screenshot 2](screenshots/Screenshot%202024-12-27%20120422.png)
+![Screenshot 2](Screenshot%202024-12-27%20120422.png)
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
